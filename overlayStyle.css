@@ -1,0 +1,166 @@
+#heroimage {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+html {
+    background: white;
+    background: linear-gradient(white, black);
+    background-repeat: no-repeat;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.headerimagewithtext {
+  position: relative;
+  width: 1100px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title1 {
+    position: absolute;
+    top: 21%;
+    left: -8%;
+    color: black;
+    font-size: 4em;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+
+.title2 {
+    position: absolute;
+    top: 23%;
+    left: 4%;
+    color: black;
+    font-size: 8em;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+
+.title3 {
+    position: absolute;
+    top: 25.8%;
+    left: 58%;
+    color: black;
+    font-size: 7.1em;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+
+.heightofpage {
+    height: 20vh;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+
+#maindiv {
+    margin-top: -200px;
+    position: absolute;
+}
+
+#recent {
+    font-size: 4em;
+    position: relative;
+    left: 5%;
+}
+
+main {
+    border-radius: 25px;
+  border: 2px solid #D3D3D3;
+  padding: 20px;
+  margin: auto;
+  width: 90vw;
+  height: 150px;
+  margin-left: 5%;
+}
+
+main p {
+    font-family: 'Tw Cen MT', Times, serif;
+}
+
+main a {
+    color: white;
+}
+
+h1 {
+    font-family: 'ZCOOL XiaoWei', serif;
+    display: inline-block;
+    float: left;
+}
+
+main div {
+    display: flex;
+    width: 35%;
+}
+
+#pumpkinfudgecustard {
+    width: 50%;
+    height: auto;
+    display: inline-block;
+    float: left;
+}
+
+footer {
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #footerimage {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+    bottom: 100%;
+}
+
+.Connect a {
+    position: absolute;
+    bottom: 18%;
+    left: 4%;
+    color: white;
+    font-size: 2vw;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+
+.ViewerTop a {
+    position: absolute;
+    bottom: 18%;
+    right: 10%;
+    color: lightgray;
+    font-size: 2vw;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+
+.NewsletterSignup a {
+    position: absolute;
+    left: 4%;
+    bottom: 13.5%;
+    color: white;
+    font-size: 2vw;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+
+.Sitemap a {
+    position: absolute;
+    left: 4%;
+    bottom: 9%;
+    color: white;
+    font-size: 2vw;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+
+.Copyright {
+    position: absolute;
+    bottom: 4%;
+    left: 4%;
+    color: white;
+    font-size: 1vw;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
